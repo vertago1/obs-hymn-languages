@@ -1,0 +1,3 @@
+[submodule "rust-obs-plugins"]
+	path = rust-obs-plugins
+	url = git@github.com:vertago1/rust-obs-plugins.git
